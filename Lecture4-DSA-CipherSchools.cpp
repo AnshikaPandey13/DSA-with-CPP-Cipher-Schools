@@ -15,5 +15,4 @@ int main(){
     cout<<" Sa+b "<<endl;
 
     cout<<"a+b: "<<c<<endl; // combining the two couts in one line only
-
 }
